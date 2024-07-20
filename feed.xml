@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Tech:L'apocalisse online ha l'aspetto di una schermata blu</title>
+        <link>https://www.punto-informatico.it/apocalisse-online-schermata-blu/</link>
+        <description>Notizie dal punto informatico:sicurezza</description>
+        <item>
+            <title>Tech:Norton antivirus</title>
+            <link>https://www.punto-informatico.it/norton-e-la-sicurezza-dei-dati-nel-cloud-protezione-garantita/</link>
+            <pubDate>Thu, 20 Jul 2024 16:00:00 GMT</pubDate>
+            <description>Notizie dal punto informatico: antivirus online</description>
+        </item>
+        <item>
+            <title>Tech:Netflix e i suoi 8milioni di nuovi utenti</title>
+            <link>https://www.pcprofessionale.it/news/netflix-sbalordisce-8-milioni-di-nuovi-abbonati/</link>
+            <pubDate>Thu, 19 Jul 2024 18:00:00 GMT</pubDate>
+            <description>Notizie da Pc Professionale</description>
+        </item>
+        <item>
+            <title>Tech:BSOD causa aggiornamento software</title>
+            <link>https://www.pcprofessionale.it/news/crash-windows-computer-bloccati-in-tutto-mondo/</link>
+            <pubDate>Thu, 19 Jul 2024 18:00:00 GMT</pubDate>
+            <description>Notizie da Pc Professionale: crash Windows.PC bloccati in tutto il mondo</description>
+        </item>
+    </channel>
+</rss>
