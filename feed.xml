@@ -40,5 +40,13 @@
             <pubDate>Thu, 19 Jul 2024 18:00:00 GMT</pubDate>
             <description>Notizie da PC World(non Italia): Windows11 Update</description>
         </item>
-    </channel>
+         <item>
+            <title>Tech:La lista degli smartphone che Cellebrite può craccare</title>
+            <link>https://www.ilsoftware.it/la-lista-degli-smartphone-che-cellebrite-puo-craccare/</link>
+            <pubDate>Thu, 19 Jul 2024 18:00:00 GMT</pubDate>
+            <description>Notizie da IlSoftware: Cellabre</description>
+        </item>
+        <!---nuovi item qui---->
+        <!---magari qualche cdata html---->
+    </channel> 
 </rss>
