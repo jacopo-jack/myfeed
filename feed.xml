@@ -1,20 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tech:L'apocalisse online ha l'aspetto di una schermata blu</title>
         <link>https://www.punto-informatico.it/apocalisse-online-schermata-blu/</link>
         <description>Notizie dal punto informatico:sicurezza</description>
+        <atom:link href="https://raw.githubusercontent.com/jacopo-jack/myfeed/main/feed.xml" rel="self" type="application/rss+xml" />
         <item>
             <title>Tech:Norton antivirus</title>
             <link>https://www.punto-informatico.it/norton-e-la-sicurezza-dei-dati-nel-cloud-protezione-garantita/</link>
             <pubDate>Thu, 20 Jul 2024 16:00:00 GMT</pubDate>
             <description>Notizie dal punto informatico: antivirus online</description>
+            <guid>https://www.punto-informatico.it/</guid>
         </item>
         <item>
             <title>Tech:Netflix e i suoi 8milioni di nuovi utenti</title>
             <link>https://www.pcprofessionale.it/news/netflix-sbalordisce-8-milioni-di-nuovi-abbonati/</link>
             <pubDate>Thu, 19 Jul 2024 18:00:00 GMT</pubDate>
-            <description>Notizie da Pc Professionale</description>
+            <description>Notizie da Pc Professionale:Netflix</description> 
+            <guid>https://www.pcprofessionale.it/</guid>
         </item>
         <item>
             <title>Tech:BSOD causa aggiornamento software</title>
@@ -22,6 +25,7 @@
             <pubDate>Thu, 19 Jul 2024 18:00:00 GMT</pubDate>
             <description>Notizie da Pc Professionale: crash Windows.PC bloccati in tutto il mondo</description>
         </item>
+        <guid>https://www.pcprofessionale.it/</guid>
         <item>
             <title>Tech:Affrontare l’Emergenza di Conformità: il Regolamento Cloud e la direttiva NIS2</title>
             <link>https://www.ictsecuritymagazine.com/</link>
@@ -46,7 +50,5 @@
             <pubDate>Thu, 19 Jul 2024 18:00:00 GMT</pubDate>
             <description>Notizie da IlSoftware: Cellabre</description>
         </item>
-        <!---nuovi item qui---->
-        <!---magari qualche cdata html---->
     </channel> 
 </rss>
