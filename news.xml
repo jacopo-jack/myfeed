@@ -49,5 +49,23 @@
             <description>Notizie da Leggo</description> 
             <pubDate>Mon, 29 Jan 2025 08:31:00 GMT</pubDate>
         </item>
+         <item>
+            <title>SkyTG24: Sicurezza a Monaco</title>
+            <link>https://tg24.sky.it/mondo/2025/02/14/ucraina-russia-guerra-ultime-notizie-14-febbraio-diretta</link>
+            <description>Notizie da TG24</description> 
+            <pubDate>Ven, 14 Feb 2025 10:48:00 GMT</pubDate>
+        </item>
+         <item>
+            <title>IlTempo:Salis-Zen</title>
+            <link>https://www.iltempo.it/politica/2025/02/14/news/salis-zan-fregare-europa-giustizialisti-tenersi-immunita-europarlamentare-41613770/</link>
+            <description>Notizie da IlTempo</description> 
+            <pubDate>Ven, 14 Feb 2025 10:52:00 GMT</pubDate>
+        </item>
+         <item>
+            <title>SOle24Ore:Chernobil</title>
+            <link>Esplosione e incendio ai resti del reattore 4 di Chernobyl. Zelensky: colpito da un drone russo. Vance, truppe Usa in Ucraina se Putin non è in buona fede</link>
+            <description>Notizie da il Sole24Ore</description> 
+            <pubDate>Ven, 14 Feb 2025 10:57:00 GMT</pubDate>
+        </item>
     </channel>
 </rss>
