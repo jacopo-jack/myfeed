@@ -74,5 +74,17 @@
             <pubDate>Sat, 25 Jan 2025 11:18:00</pubDate>
             <description>Notizie da Punto Informatico: Windows</description>
         </item>
+         <item>
+            <title>Tech:Scienziati sviluppano motore al plasma</title>
+            <link>https://tech.everyeye.it/notizie/scienziati-sviluppano-motore-plasma-raggiungere-marte-30-giorni-778500.html</link>
+            <pubDate>Ven, 14 Feb 2025 10:13:00</pubDate>
+            <description>Notizie da Everyeye: Scianza</description>
+        </item>
+         <item>
+            <title>Tech:La beffa di Como: fibra in tutta la via tranne che lì. E Openfiber passa nella proprietà</title>
+            <link>https://dday.it/redazione/52013/la-beffa-di-como-fibra-in-tutta-la-via-tranne-che-li-e-openfiber-passa-nella-proprieta</link>
+            <pubDate>Ven, 14 Feb 2025 10:14:00</pubDate>
+            <description>Notizie da DDay.it:Fibra e porprietà privata</description>
+        </item>
     </channel> 
 </rss>
