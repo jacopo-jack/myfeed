@@ -67,5 +67,29 @@
             <description>Notizie da il Sole24Ore</description> 
             <pubDate>Ven, 14 Feb 2025 10:57:00 GMT</pubDate>
         </item>
+          <item>
+            <title>IlGiorno: Stefano Tacconi</title>
+            <link>https://www.ilgiorno.it/milano/cronaca/stefano-tacconi-casa-popolare-sr14gc4b</link>
+            <description>Notizie da ilGiorno</description> 
+            <pubDate>Ven, 14 Feb 2025 10:57:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Libero: Sanremo 3° serata record share</title>
+            <link>https://www.liberoquotidiano.it/news/spettacoli/41614050/sanremo-2025-share-terza-serata-altro-botto-carlo-conti.html</link>
+            <description>Notizie da Libero</description> 
+            <pubDate>Ven, 14 Feb 2025 11:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>PdB: Azioni Robinhood Markets a +400% in 12 mesi, è il growth stock dell’anno? Cosa ne pensano gli analisti</title>
+            <link>https://www.proiezionidiborsa.it/</link>
+            <description>Notizie da Proiezione di Borsa</description> 
+            <pubDate>Ven, 14 Feb 2025 11:29:00 GMT</pubDate>
+        </item>
+         <item>
+            <title>Toscana Media: Maltempo, danni su binari e treni in ritardo</title>
+            <link>https://www.toscanamedianews.it/capalbio-chiusi-maltempo-danni-binari-treni-ritardo.htm</link>
+            <description>Notizie da Toscana Media</description> 
+            <pubDate>Ven, 14 Feb 2025 11:32:00 GMT</pubDate>
+        </item>
     </channel>
 </rss>
